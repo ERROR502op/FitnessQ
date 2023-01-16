@@ -1,5 +1,5 @@
 # FitnessQ
-Features
+# Features
 1) Exercise tracking
 2) Create custom exercises
 3) Create exercise comments
